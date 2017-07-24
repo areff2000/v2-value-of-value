@@ -10,6 +10,6 @@ More at: a blogpost http://valman.blogspot.com.au/2017/01/the-little-book-of-val
 
 New title (13.1.2017): The Little Book of Value.
 
-Draft files now added to repository:
+Draft files now added (Jul '17) to repository:
 - epub (96 pp)
 - ibooks readable in Apple iBook software (with pics, 67pp).
