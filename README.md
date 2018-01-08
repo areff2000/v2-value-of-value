@@ -10,7 +10,8 @@ More at: a blogpost http://valman.blogspot.com.au/2017/01/the-little-book-of-val
 
 New title (13.1.2017): The Little Book of Value (abbreviated to LBOV).
 
-Draft files now added (Jul '17, Nov '17) to repository (see above):
+Draft files now added (Jul '17, Nov '17, Dec '17) to repository (see above):
 - epub (text only, 96 pp), suitable for iPhone and various screen sizes, fast.
 - ibooks readable in Apple iBook software (with pics, 67pp). More like a pdf. Colourful, but harder to read on small screens.
-- pdf version from Github wiki (37pp).
+- pdf version from Github wiki (37pp)
+- editing version (Dec '17) in Apple iBooks Author (.iba).
