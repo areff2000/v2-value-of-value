@@ -9,6 +9,7 @@ This project is an online collaborative book project, partnering innovation rese
 More at: a blogpost http://valman.blogspot.com.au/2017/01/the-little-book-of-value.html.
 
 New title (13.1.2017): The Little Book of Value (abbreviated to LBOV).
+New title (17.8.2018): The Tiny Book of Value (TBOV is Vol 1.(20pp) LBOV is Vol.2 100pp).
 
 Draft files now added (Jul '17, Nov '17, Dec '17) to repository (see above):
 - epub (text only, 96 pp), suitable for iPhone and various screen sizes, fast.
