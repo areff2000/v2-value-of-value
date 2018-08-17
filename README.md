@@ -16,3 +16,4 @@ Draft files now added (Jul '17, Nov '17, Dec '17) to repository (see above):
 - pdf version from Github wiki (37pp)
 - editing version (Dec '17; posted 050118) in Apple iBooks Author (.iba).
 - rough epub first cut in Pages (May '18)
+- 2nd epub draft with Value Cases (Aug '18) 20pp version
