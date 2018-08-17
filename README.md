@@ -2,7 +2,7 @@ v2-value-of-value
 =================
 
 Value is a 21st Century approach to understanding Innovation. This work explores the nature and consequences of value.
-The draft content (about 50pp.) is in the <a href="https://github.com/areff2000/v2-value-of-value/wiki">wiki</a>. Downloadable draft versions (July) are available as pdf, epub, or ibooks - see above links.
+The draft content (about 50pp.) is in the <a href="https://github.com/areff2000/v2-value-of-value/wiki">wiki</a>. Downloadable draft versions (July '17 on) are available as pdf, epub, or ibooks - see above links.
 
 This project is an online collaborative book project, partnering innovation researchers and industry practitioners to explore and test the value of a theory of value to explain innovation. Using ten cases, the value theory will be examined across different contexts, to see if we can break or extend the theory.
 
