@@ -19,3 +19,4 @@ Draft files now added (Jul '17, Nov '17, Dec '17) to repository (see above):
 - rough epub first cut in Pages (May '18)
 - 2nd epub draft with Value Cases (Aug '18) 20pp version
 - loaded file (pdf) to Figshare: DOI <a href="http://doi.org/10.6084/m9.figshare.7376879">10.6084/m9.figshare.7376879</a>
+- todo: add epub, and Pages files here.
